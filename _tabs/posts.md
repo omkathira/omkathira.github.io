@@ -1,5 +1,5 @@
 ---
 layout: categories
-icon: fas a-pen-to-square
+icon: fas fa-pen-to-square
 order: 1
 ---
